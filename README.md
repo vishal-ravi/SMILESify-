@@ -1,6 +1,3 @@
-Here’s a **detailed GitHub repository description** for **SMILESify** that you can use for your repository:  
-
----
 
 # **SMILESify** 🧪✨  
 **A lightweight, user-friendly GUI tool to extract SMILES from SDF files.**  
